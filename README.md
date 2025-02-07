@@ -1,6 +1,6 @@
 ## ✨My Project
 ### ✅ Centria Hub - A centralized platform that integrates all Centria UAS news, events, and articles.
-[GitHub](https://github.com/Centria-Hub/centria-hub) | Demo <br>
+[GitHub](https://github.com/Centria-Hub/centria-hub) | [Demo](https://hub.solo-web.studio/)
 - Team Project
 - Responsibility: Front-end
 - Technologies: TypeScript, React, Tailwind CSS, Next.js
