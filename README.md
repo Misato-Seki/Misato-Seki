@@ -1,12 +1,12 @@
 ## ✨My Project
-### ✅ Centria Hub - A centralized platform that integrates all Centria UAS news, events, and articles.
+### ✅ Centria Hub - A centralised platform that integrates all Centria UAS news, events, and articles.
 [GitHub](https://github.com/Centria-Hub/centria-hub) | [Demo](https://hub.solo-web.studio/)
 - Team Project
 - Responsibility: Front-end
 - Technologies: TypeScript, React, Tailwind CSS, Next.js
 
 ### ✅ Virtual Farmers Market - A platform connecting local farmers with consumers.
-[GitHub](https://github.com/axdra/VFM) | [Demo](https://vfm.axeldraws.com/)
+[GitHub](https://github.com/axdra/VFM) | [Demo](https://main.d2oybo1hujadwl.amplifyapp.com/)
 - Team Project
 - Responsibility: Front-end
 - Technologies: TypeScript, React, Tailwind CSS, Vite
