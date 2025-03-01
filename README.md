@@ -16,9 +16,10 @@
 - Individual Project
 - Technologies: React, TypeScript, FastAPI, PostgreSQL, Render, Vercel
 
-
-
-
+### ✅ Word Quiz App - A flashcard app where users can add, edit, and delete words.
+[GitHub](https://github.com/Misato-Seki/word-quiz-app/) | [Demo](https://www.youtube.com/watch?v=Serx-tq_-78) (YouTube)
+- Individual Project
+- Technologies: React, JavaScript, Node.js, Express.js, PostgreSQL
 
 <!--
 **Misato-Seki/Misato-Seki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
