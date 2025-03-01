@@ -11,10 +11,10 @@
 - Responsibility: Front-end
 - Technologies: TypeScript, React, Tailwind CSS, Vite
 
-### ✅ Word Quiz App - A flashcard app where users can add, edit, and delete words.
-[GitHub](https://github.com/Misato-Seki/word-quiz-app/) | [Demo](https://www.youtube.com/watch?v=Serx-tq_-78) (YouTube)
+### ✅ Meal Tracker - Users can add, edit, and delete their meal logs.
+[GitHub](https://github.com/Misato-Seki/meal-tracker) | [Demo](https://meal-tracker-omega.vercel.app/)
 - Individual Project
-- Technologies: React, JavaScript, Node.js, Express.js, PostgreSQL
+- Technologies: React, TypeScript, FastAPI, PostgreSQL, Render, Vercel
 
 
 
