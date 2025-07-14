@@ -1,7 +1,7 @@
 ## ✨My Project
 
 ### ✅ TaskBot – A task management app that displays and sends a bot message with today’s events, habits, and tasks.
-[GitHub](https://github.com/Misato-Seki/task-management-bot) | [Demo](https://taskbot.misatosan.com/)
+[GitHub](https://github.com/Misato-Seki/task-management-bot) | [Demo](https://taskbot.misatosan.com/) | [Demo(Youtube)](https://youtu.be/b9PKrZLI4pE)
 - Individual Project
 - Technologies: JavaScript, Node.js, Express.js, PostgreSQL, Prisma, React, TypeScript, Next.js, TailwindCSS, Google Cloud
 
